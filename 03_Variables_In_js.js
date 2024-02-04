@@ -21,7 +21,7 @@ console.log(b)
 
 // variable created using const keyword cannot be updated or re-declared
 const author = "Austin Kleon"
-// author = "something else" // this will throw an error
-// const author = "else" // this will throw an error
+// author = "something else" // this will throw an error (updating)
+// const author = "else" // this will throw an error (redeclaring)
 
 console.log(author)

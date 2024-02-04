@@ -18,7 +18,7 @@ let g = undefined;
 console.log(a, b, c, d, e, f, g);
 console.log(typeof e);
 
-// objects in js -- non-primitive datatypes
+// objects in js -- non-primitive datatypes (kinda look like the dictionaries in python programming language)
 
 const item = {
   Shivam: true,

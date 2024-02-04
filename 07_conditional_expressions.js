@@ -32,4 +32,5 @@ a = Number.parseInt(a); //typecasting string to a number
 //         console.log("Muskmelon is my favorite fruit.");
 // }
 
+// ternary operator
 console.log(a < 18 ? "Cannot drive": "Can drive")

@@ -12,13 +12,13 @@ for (let i = 0; i < 10; i++) {
 console.log(sum);
 
 // creating a program to find the factorial of a number using for loop
-let factorial = 1;
-let num = prompt("Enter a number")
-for (let i = 1; i <= num; i++){
-    factorial *= i
-}
+// let factorial = 1;
+// let num = prompt("Enter a number")
+// for (let i = 1; i <= num; i++){
+//     factorial *= i
+// }
 
-// for in loop
+// for in loop: The for...in statement iterates over the properties of an object.
 let obj = {
     shivam: 95,
     harry: 80,
@@ -29,7 +29,7 @@ for (let a in obj){
     console.log(a)
 }
 
-// for of loop
+// for of loop: To iterate over iterable objects like arrays and strings, we can use the for...of statement. 
 for (let b of "Shivam"){
     console.log(b)
 }

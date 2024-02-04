@@ -5,6 +5,7 @@ let num = [1, 2, 3, 4, 5]
 // converting an array to string
 let b = num.toString()
 console.log(b)
+console.log(typeof b)
 
 // joining array elements with separator
 let c = num.join(" and ")

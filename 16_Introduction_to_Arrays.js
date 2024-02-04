@@ -23,3 +23,4 @@ console.log(marks_class_12)
 // typeof array --> arrays are object type (DOUBT)
 console.log(typeof marks_class_12)
 
+// You can have different types of variables in the array. You can have functions, objects, arrays in arrays.
