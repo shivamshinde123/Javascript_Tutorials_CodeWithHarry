@@ -24,12 +24,12 @@ let a = 10;
 let comp1 = 9;
 let comp2 = "9";
 
-// console.log("comp1 == comp2 ", comp1 == comp2)
-// console.log("comp1 === comp2 ", comp1 === comp2)
+console.log("comp1 == comp2 ", comp1 == comp2)
+console.log("comp1 === comp2 ", comp1 === comp2)
 
 let x = 5;
 let y = 6;
 
-// console.log(x>5 && y<7)
-// console.log(!false)
+console.log(x>5 && y<7)
+console.log(!false)
  
