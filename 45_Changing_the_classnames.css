@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+    color:white;
+}
+
+.text-dark {
+    color: black;
+}
+
+.green {
+    background-color: green;
+    color:white;
+}
